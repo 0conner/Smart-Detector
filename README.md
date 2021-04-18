@@ -1,7 +1,7 @@
 # Smart-Brain
 Face Detection web application
 
-Face Detection web application using Javascript frameworks and Machine learning API.
+Built using Javascript frameworks and Machine learning API.
 
 Implemented a Profile Ranking feature based on number of image submissions done by the user using Node JS and PostgreSQL
 
