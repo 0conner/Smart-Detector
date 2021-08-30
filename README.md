@@ -1,4 +1,4 @@
-# Smart-Brain
+# Smart-Detector 
 Face Detection web application
 
 Built using Javascript frameworks and Machine learning API.
